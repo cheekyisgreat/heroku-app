@@ -1,19 +1,18 @@
 {
-  "name": "node-js-getting-started",
+  "name": "dddomin3",
   "version": "0.1.2",
-  "description": "A sample Node.js app using Express 4",
+  "description": "My resume",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "install": "node install"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "~4.9.x",
     "angular": "",
     "angular-route": "",
     "angular-touch": "",
-    "angular-animate": "",
-    "bootstrap": ""
+    "bootstrap": "",
+    "angular-animate": ""
   },
   "engines": {
     "node": "0.10.x"
@@ -25,7 +24,8 @@
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "express",
+    "angular"
   ],
   "license": "MIT"
 }
