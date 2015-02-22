@@ -8,6 +8,6 @@
  * Controller of the appApp
  */
 angular.module('appApp')
-  .controller('mainCtrl', function ($scope) {
-    $scope.poo = "main";
+  .controller('aboutCtrl', function ($scope) {
+    $scope.poo = "about";
   });
