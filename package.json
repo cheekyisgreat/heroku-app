@@ -4,10 +4,16 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "install": "node install"
   },
   "dependencies": {
-    "express": "~4.9.x"
+    "express": "~4.9.x",
+    "angular": "",
+    "angular-route": "",
+    "angular-touch": "",
+    "angular-animate": "",
+    "bootstrap": ""
   },
   "engines": {
     "node": "0.10.x"
